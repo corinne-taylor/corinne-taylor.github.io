@@ -1,0 +1,19 @@
+body { 
+  background: url(../couch-saturated.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+
+h1 {
+	font-family: 'Rye', cursive;
+	font-size: 120px;
+	color: #2f4f4f;
+	text-align: center;
+}
+
+p {
+	font-family: 'Comfortaa', cursive;
+	font-size: 50px;
+	color: #2f4f4f;
+	text-align: center;
+}
