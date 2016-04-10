@@ -17,3 +17,11 @@ p {
 	color: #2f4f4f;
 	text-align: center;
 }
+
+.intro-page {
+	background-color: rgba(192, 192, 192, .4);
+}
+
+.details {
+	padding-top: 50px;
+}
